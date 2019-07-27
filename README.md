@@ -13,7 +13,7 @@
 
 
 ---
-Author:[R3start](http://R3start.net)  2019年7月11日
+Author:[R3start@白帽汇安全研究院](http://R3start.net)  2019年7月11日
 
 ---
 《低危SSRF提权进内网.pdf》 打码不全，已删除。各位下载过的朋友麻烦请自行删除，请勿继续传播。感谢。
