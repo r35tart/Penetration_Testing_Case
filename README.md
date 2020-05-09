@@ -33,3 +33,9 @@ Author:[R3start@白帽汇安全研究院](https://nosec.org/)  2019年7月11日
 新增 《记一次曲折而有趣的渗透.pdf》
 
 2020年2月20日
+
+---
+
+新增 《通过 SSRF 操作 Redis 主从 RCE.pdf》
+
+2020年5月9日
