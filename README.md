@@ -14,7 +14,14 @@
 
 ---
 
-Author:[R3start@白帽汇安全研究院](https://nosec.org/)  2019年7月11日
+Author:[R3start](https://R3start.net/)  2019年7月11日
+
+---
+
+
+新增 《对 Redis 在 Windows 下利用方式思考.pdf》
+
+2020年5月26日
 
 ---
 
