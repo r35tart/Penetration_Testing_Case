@@ -18,6 +18,11 @@ Author:[R3start](https://R3start.net/)  2019年7月11日
 
 ---
 
+新增 《阿里云 AKSK 命令执行到谷歌验证码劫持.pdf》
+
+2020年10月23日
+
+---
 
 新增 《对 Redis 在 Windows 下利用方式思考.pdf》
 
